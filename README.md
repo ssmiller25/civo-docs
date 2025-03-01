@@ -32,6 +32,12 @@ $ yarn start
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
+### Devcontainer Development
+
+```console
+$ yarn start-container
+```
+
 ### Build
 
 ```console
